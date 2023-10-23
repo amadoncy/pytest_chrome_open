@@ -1,0 +1,798 @@
+1695653605052	geckodriver	INFO	Listening on 127.0.0.1:51211
+1695653608104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51212" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiledR2UQf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695653608631	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695653608771	Marionette	INFO	Listening on port 51232
+WebDriver BiDi listening on ws://127.0.0.1:51212
+Read port: 51232
+1695653609053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51212/devtools/browser/bc95666f-f0d7-4f9c-84f7-dd33ddb4a7cf
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695654435087	Marionette	INFO	Stopped listening on port 51232
+Dynamically enable window occlusion 1
+1695886148699	geckodriver	INFO	Listening on 127.0.0.1:54997
+1695886151748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54998" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileWB3Tvo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695886152252	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695886152388	Marionette	INFO	Listening on port 55012
+WebDriver BiDi listening on ws://127.0.0.1:54998
+Read port: 55012
+1695886152589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54998/devtools/browser/286bcaa2-4fc5-4917-bd70-b04b103b5bae
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+1695886277863	Marionette	INFO	Stopped listening on port 55012
+Dynamically enable window occlusion 1
+1696861919403	geckodriver	INFO	Listening on 127.0.0.1:55317
+1696861922459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55318" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilewvDXVO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696861923026	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696861923199	Marionette	INFO	Listening on port 55345
+Read port: 55345
+WebDriver BiDi listening on ws://127.0.0.1:55318
+1696861923335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55318/devtools/browser/e3dd9bf5-846c-4180-af95-09c489f947cd
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+JavaScript error: chrome://browser/content/tabbrowser.js, line 6256: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1696862703485	Marionette	INFO	Stopped listening on port 55345
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileS8OXWJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696862053119	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696862053221	Marionette	INFO	Listening on port 55826
+WebDriver BiDi listening on ws://127.0.0.1:55809
+Read port: 55826
+1696862053470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55809/devtools/browser/2ca993a2-4672-4810-b423-74bde3d37aed
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1696862130992	Marionette	INFO	Stopped listening on port 55821696862131788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56090" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilewJfzHY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696862132010	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696862132103	Marionette	INFO	Listening on port 56113
+Read port: 56113
+WebDriver BiDi listening on ws://127.0.0.1:56090
+1696862132152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56090/devtools/browser/8bd540c0-eefa-4111-b761-35eafbd082cb
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1696862404315	Marionette	INFO	Stopped listening on port 56111696862404813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56925" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileWaBk6e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696862405064	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696862405159	Marionette	INFO	Listening on port 56940
+WebDriver BiDi listening on ws://127.0.0.1:56925
+Read port: 56940
+1696862405388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56925/devtools/browser/a937246f-b788-4099-95d9-37382cbf3a5c
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1696862509054	Marionette	INFO	Stopped listening on port 56941696862510548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57283" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileH0mIX1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696862510769	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696862510853	Marionette	INFO	Listening on port 57297
+WebDriver BiDi listening on ws://127.0.0.1:57283
+Read port: 57297
+1696862511014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57283/devtools/browser/8c924407-ea65-4155-86d4-f7040285afda
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1696862702368	Marionette	INFO	Stopped listening on port 57297
+Dynamically enable window occlusion 1
+1696896788730	geckodriver	INFO	Listening on 127.0.0.1:50596
+1696896791815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileulFV1l"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696896792318	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696896792460	Marionette	INFO	Listening on port 50649
+Read port: 50649
+WebDriver BiDi listening on ws://127.0.0.1:50597
+1696896792573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50597/devtools/browser/f12297fa-1f1c-4c32-8f46-4ddd6c4ca9ec
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+1696896842454	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2152398850, errorCode: 5, reason: timeout
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1696897889638	geckodriver	INFO	Listening on 127.0.0.1:52780
+1696897892707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52781" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilelecu2D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696897892942	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696897893026	Marionette	INFO	Listening on port 52830
+Read port: 52830
+WebDriver BiDi listening on ws://127.0.0.1:52781
+1696897893122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52781/devtools/browser/31f852b2-4dca-48b8-8ff1-c4f29fdb1e80
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+1696897944815	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2152398850, errorCode: 5, reason: timeout
+JavaScript error: resource://devtools/client/debugger/src/utils/context.js, line 46: Error: DebuggerContextError: Selected thread has changed
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript warning: resource://devtools/server/actors/utils/event-loop.js, line 82: debuggee 'http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval:2' would run
+JavaScript warning: resource://devtools/server/actors/utils/event-loop.js, line 82: debuggee 'http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval:2' would run
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1696898064541	Marionette	INFO	Stopped listening on port 52830
+Dynamically enable window occlusion 1
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+1696898154524	geckodriver	INFO	Listening on 127.0.0.1:53308
+1696898157582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileahW4xw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696898157795	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696898157843	Marionette	INFO	Listening on port 53351
+WebDriver BiDi listening on ws://127.0.0.1:53309
+Read port: 53351
+1696898157996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53309/devtools/browser/5d0b1b21-ed66-494d-9748-1baa17be0be6
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+JavaScript warning: resource://devtools/server/actors/utils/event-loop.js, line 82: debuggee 'http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval:2' would run
+JavaScript error: resource://devtools/client/debugger/src/utils/context.js, line 46: Error: DebuggerContextError: Selected thread has changed
+1696898208243	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2152398850, errorCode: 5, reason: timeout
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+1696898514385	geckodriver	INFO	Listening on 127.0.0.1:53946
+1696898517425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileCATa1H"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696898517648	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696898517696	Marionette	INFO	Listening on port 53986
+WebDriver BiDi listening on ws://127.0.0.1:53947
+Read port: 53986
+1696898517844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53947/devtools/browser/390a4574-99f3-4759-a4b1-0bee02655506
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+1696898569227	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2152398850, errorCode: 5, reason: timeout
+JavaScript error: resource://devtools/shared/layout/utils.js, line 844: TypeError: ChromeUtils.getClassName: Argument 1 is not an object.
+JavaScript warning: resource://devtools/server/actors/utils/event-loop.js, line 82: debuggee 'http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval:9' would run
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1696900725888	Marionette	INFO	Stopped listening on port 53986
+Dynamically enable window occlusion 1
+ 0
+1696898907726	Marionette	INFO	Listening on port 54617
+WebDriver BiDi listening on ws://127.0.0.1:54584
+Read port: 54617
+1696898907884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54584/devtools/browser/9bb26131-a9ca-4903-94b7-5dba94ae2f57
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://39.100.87.106:6888."
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1696904560201	Marionette	INFO	Stopped listening on port 54617
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0h87Ya"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696900555991	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696900556041	Marionette	INFO	Listening on port 59324
+WebDriver BiDi listening on ws://127.0.0.1:59256
+Read port: 59324
+1696900556192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59256/devtools/browser/c7936695-0207-4d08-a4b4-12e3269eba3b
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696900572399	Marionette	INFO	Stopped listening on port 59324
+Dynamically enable window occlusion 1
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+1696900725296	geckodriver	INFO	Listening on 127.0.0.1:59790
+1696900728371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59791" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilej0FcWK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696900728582	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696900728632	Marionette	INFO	Listening on port 59814
+WebDriver BiDi listening on ws://127.0.0.1:59791
+Read port: 59814
+1696900728781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59791/devtools/browser/27174390-bd06-4789-be9c-179e95c421ed
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+JavaScript warning: resource://devtools/server/actors/utils/event-loop.js, line 82: debuggee 'http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval:13' would run
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: "getSourceActorBreakableLines failed: Error: Connection closed, pending request to server0.conn0.windowGlobal6442450947/source18, type getBreakableLines failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetSourceActorBreakableLines@resource://devtools/client/debugger/src/client/firefox/commands.js:476:36\nsetBreakableLines/<@resource://devtools/client/debugger/src/actions/sources/breakableLines.js:61:37\nthunk/</</<@resource://devtools/client/debugger/src/actions/utils/middleware/thunk.js:29:45\ndispatch@resource://devtools/client/shared/vendor/redux.js:681:28\nselectLocation/<@resource://devtools/client/debugger/src/actions/sources/select.js:194:11\n"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: "Action setSymbols had an exception:" ({})
+console.error: ({})
+JavaScript error: resource://devtools/client/debugger/src/utils/DevToolsUtils.js, line 23: NS_ERROR_NOT_INITIALIZED
+JavaScript error: resource://devtools/client/shared/worker-utils.js, line 98: Error: Parser: source source-actor-server0.conn0.windowGlobal6442450947/source18 was not provided.
+JavaScript error: resource://devtools/client/debugger/src/utils/context.js, line 46: Error: DebuggerContextError: Selected thread has changed
+JavaScript warning: resource://devtools/server/actors/utils/event-loop.js, line 82: debuggee 'http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval:2' would run
+JavaScript warning: resource://devtools/server/actors/utils/event-loop.js, line 82: debuggee 'http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval:5' would run
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1696904283116	Marionette	INFO	Stopped listening on port 59814
+Dynamically enable window occlusion 1
+OOLS=1 in the environment
+1696901478480	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696901478564	Marionette	INFO	Listening on port 61941
+WebDriver BiDi listening on ws://127.0.0.1:61927
+Read port: 61941
+1696901478755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61927/devtools/browser/34b9c1dd-e1e2-435b-86b3-29d1406dcf9e
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1696901773230	Marionette	INFO	Stopped listening on port 61941
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62676" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilezYUPbI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696901752681	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696901752764	Marionette	INFO	Listening on port 62691
+WebDriver BiDi listening on ws://127.0.0.1:62676
+Read port: 62691
+1696901752957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62676/devtools/browser/fe411c69-3092-4ad5-b10d-a05de77c3222
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1696901774249	Marionette	INFO	Stopped listening on port 62691696901775034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62774" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilebPxMDP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696901775246	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696901775326	Marionette	INFO	Listening on port 62788
+WebDriver BiDi listening on ws://127.0.0.1:62774
+Read port: 62788
+1696901775540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62774/devtools/browser/e852cd6c-b622-49ad-a358-8d2e88f336cf
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+console.error: (new Error("DebuggerContextError: Selected thread has changed", "resource://devtools/client/debugger/src/utils/context.js", 46))
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 2000: TypeError: currentPanel is undefined
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 2000: TypeError: currentPanel is undefined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://218.200.239.185:8888."
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 198: TypeError: rule is undefined
+JavaScript warning: resource://devtools/server/actors/utils/event-loop.js, line 82: debuggee 'http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval:1' would run
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1696902768100	Marionette	INFO	Stopped listening on port 62788
+Dynamically enable window occlusion 1
+1696902964080	geckodriver	INFO	Listening on 127.0.0.1:49374
+1696902967129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49375" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile64zQ7Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696902967338	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696902967423	Marionette	INFO	Listening on port 49390
+WebDriver BiDi listening on ws://127.0.0.1:49375
+Read port: 49390
+1696902967630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49375/devtools/browser/3bd42eed-62e2-4c20-b829-ac6c4ffa0a5c
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1696903071400	Marionette	INFO	Stopped listening on port 49390
+Dynamically enable window occlusion 1
+ "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileZLx9P7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696903031030	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696903031109	Marionette	INFO	Listening on port 49870
+WebDriver BiDi listening on ws://127.0.0.1:49854
+Read port: 49870
+1696903031302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49854/devtools/browser/a15071da-83b0-46dc-9e2f-0b7fd84fad99
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+1696903074584	Marionette	INFO	Stopped listening on port 49870
+Dynamically enable window occlusion 1
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+eference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696903070466	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696903070548	Marionette	INFO	Listening on port 50032
+WebDriver BiDi listening on ws://127.0.0.1:50017
+Read port: 50032
+1696903070743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50017/devtools/browser/61f33607-a87c-4c45-ab21-7e19d336246f
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+1696903143460	Marionette	INFO	Stopped listening on port 50031696903144651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50251" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileczxgjx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696903144877	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696903144960	Marionette	INFO	Listening on port 50270
+WebDriver BiDi listening on ws://127.0.0.1:50251
+Read port: 50270
+1696903145115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50251/devtools/browser/66b5e824-b7a1-4011-ab68-0376f7c7db5a
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1696903174567	Marionette	INFO	Stopped listening on port 50270
+Dynamically enable window occlusion 1
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+low-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileYdqeHl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696903174560	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696903174653	Marionette	INFO	Listening on port 50400
+WebDriver BiDi listening on ws://127.0.0.1:50384
+Read port: 50400
+1696903174883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50384/devtools/browser/820dac9d-72ea-4b10-b8c8-a7d61defca3f
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1696903560863	Marionette	INFO	Stopped listening on port 50400
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50625" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile2SGksP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696903252439	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696903252525	Marionette	INFO	Listening on port 50641
+WebDriver BiDi listening on ws://127.0.0.1:50625
+Read port: 50641
+1696903252690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50625/devtools/browser/e8394e00-6786-40c7-8e08-065744811dad
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+1696903304286	Marionette	INFO	Stopped listening on port 50641
+Dynamically enable window occlusion 1
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1696903559142	geckodriver	INFO	Listening on 127.0.0.1:51480
+1696903562162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51481" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilehYZYSf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696903562383	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696903562467	Marionette	INFO	Listening on port 51498
+WebDriver BiDi listening on ws://127.0.0.1:51481
+Read port: 51498
+1696903562656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51481/devtools/browser/0d04a9db-16d2-478f-8cd6-b0c43ee843b1
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+JavaScript warning: resource://devtools/server/actors/utils/event-loop.js, line 82: debuggee 'http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval:1' would run
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1696903791277	Marionette	INFO	Stopped listening on port 51498
+Dynamically enable window occlusion 1
+vaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1696903790428	Marionette	INFO	Stopped listening on port 52071696903791511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52168" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilemHzzDA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696903791722	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696903791803	Marionette	INFO	Listening on port 52183
+WebDriver BiDi listening on ws://127.0.0.1:52168
+Read port: 52183
+1696903791997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52168/devtools/browser/4506f7fc-287d-4a4e-a872-799e78466e88
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1696903958812	Marionette	INFO	Stopped listening on port 52183
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilevUk5ui"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696903959036	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696903959123	Marionette	INFO	Listening on port 52649
+WebDriver BiDi listening on ws://127.0.0.1:52635
+Read port: 52649
+1696903959321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52635/devtools/browser/f3a77828-4286-4e8c-a279-be9d60c0754c
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1696903963371	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://218.200.239.185:8888."
+1696903999464	Marionette	INFO	Stopped listening on port 52649
+Dynamically enable window occlusion 1
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1696904004024	geckodriver	INFO	Listening on 127.0.0.1:52801
+1696904007082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52802" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileS7BZtQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696904007300	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696904007383	Marionette	INFO	Listening on port 52816
+WebDriver BiDi listening on ws://127.0.0.1:52802
+Read port: 52816
+1696904007597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52802/devtools/browser/1ada6cb0-764f-4c09-8513-ccceb3b50604
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1696904017480	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new Error("Polling for changes failed: Netwo1696904082601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilegKn7nT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696904082815	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696904082896	Marionette	INFO	Listening on port 53073
+WebDriver BiDi listening on ws://127.0.0.1:53059
+Read port: 53073
+1696904083096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53059/devtools/browser/bd7412f8-a545-4726-99b4-4e4551ae5495
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://218.200.239.185:8888."
+1696904114440	Marionette	INFO	Stopped listening on port 53073
+Dynamically enable window occlusion 1
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1696904249400	geckodriver	INFO	Listening on 127.0.0.1:53487
+1696904252442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53488" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiledSC78K"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696904252652	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696904252735	Marionette	INFO	Listening on port 53502
+WebDriver BiDi listening on ws://127.0.0.1:53488
+Read port: 53502
+1696904252933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53488/devtools/browser/e72793b6-5789-4ed8-99be-acebd554b379
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://218.200.239.185:8888."
+1696904278048	Marionette	INFO	Stopped listening on port 53502
+Dynamically enable window occlusion 1
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+1696904280936	geckodriver	INFO	Listening on 127.0.0.1:53614
+1696904283986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile7R6siX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696904284199	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696904284281	Marionette	INFO	Listening on port 53630
+WebDriver BiDi listening on ws://127.0.0.1:53615
+Read port: 53630
+1696904284474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53615/devtools/browser/59609477-6d86-4feb-81ad-914bcc8d6fa6
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1696904557294	Marionette	INFO	Stopped listening on port 53630
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53996" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile4bnivI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696904416815	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696904416896	Marionette	INFO	Listening on port 54018
+WebDriver BiDi listening on ws://127.0.0.1:53996
+Read port: 54018
+1696904417084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53996/devtools/browser/9eb06aab-abd5-4413-8d9d-b6794a1a36f7
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1696904448413	Marionette	INFO	Stopped listening on port 54011696904449471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54134" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileT5uS4y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696904449682	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696904449763	Marionette	INFO	Listening on port 54154
+WebDriver BiDi listening on ws://127.0.0.1:54134
+Read port: 54154
+1696904449954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54134/devtools/browser/f7b9bba5-0753-4a7d-8626-6b1f79481593
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1696904559693	Marionette	INFO	Stopped listening on port 54154
+Dynamically enable window occlusion 1
+ "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile8cmIID"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696904511279	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696904511361	Marionette	INFO	Listening on port 54368
+WebDriver BiDi listening on ws://127.0.0.1:54350
+Read port: 54368
+1696904511553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54350/devtools/browser/260bad69-82fa-4041-bdf1-39afa7c4f712
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+1696904554626	Marionette	INFO	Stopped listening on port 54368
+Dynamically enable window occlusion 1
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1696985263721	geckodriver	INFO	Listening on 127.0.0.1:54363
+1696985266780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54364" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileg8Tm0e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696985267281	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696985267425	Marionette	INFO	Listening on port 54445
+WebDriver BiDi listening on ws://127.0.0.1:54364
+Read port: 54445
+1696985267534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54364/devtools/browser/74fd7af9-9b2b-44a0-9ad8-a7516ada66e5
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+1696985327457	geckodriver	INFO	Listening on 127.0.0.1:54549
+1696985330488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54550" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileWHFWrV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696985330811	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696985330897	Marionette	INFO	Listening on port 54590
+WebDriver BiDi listening on ws://127.0.0.1:54550
+Read port: 54590
+1696985331127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54550/devtools/browser/723c692d-535a-493b-befd-607f64fa7aea
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+1696985353882	Marionette	INFO	Stopped listening on port 54591696985356391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54656" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile3UKZlD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696985356634	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696985356715	Marionette	INFO	Listening on port 54684
+WebDriver BiDi listening on ws://127.0.0.1:54656
+Read port: 54684
+1696985356955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54656/devtools/browser/59d350ec-4528-4b1e-9cbf-d3acf8c8bab7
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://218.200.239.185:8888/4QbVtADbnLVIc/d.FxJzG50F.294cc83.js line 7 > eval, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1696985390359	Marionette	INFO	Stopped listening on port 54684
+Dynamically enable window occlusion 1
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
